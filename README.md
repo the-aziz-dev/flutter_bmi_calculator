@@ -7,5 +7,5 @@ The beautiful design made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Si
 
 I was able to implement this application after watching [Angela Yu's](https://www.udemy.com/course/flutter-bootcamp-with-dart/?referralCode=2B7724A180C0502A2547) course.
 
-## How does the BMI Calculator app look like
+## How does the BMI Calculator app look like:
 ![Finished App](https://i.ibb.co/v1zg4Kv/BMI-Cal.png)
