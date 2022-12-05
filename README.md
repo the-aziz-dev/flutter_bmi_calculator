@@ -1,6 +1,6 @@
 # Simple BMI Calculator
 
-This example approves how we can customize Flutter Widgets to achieve our beautiful user interface designs.
+This sample approves how we can customize Flutter Widgets to achieve our beautiful user interface designs.
 No matter how unconventional their designs are, we can create them using Flutter if you have designs on board.
 
 The beautiful design made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator) inspire the BMI Calculator app.
